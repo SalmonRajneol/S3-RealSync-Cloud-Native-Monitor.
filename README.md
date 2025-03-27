@@ -1,4 +1,4 @@
-# S3 Monitoring Project
+# S3-RealSync-Cloud-Native-Monitor. Project
 This project monitors an S3 bucket (`salmon-monitoring-data`) using Python, Prometheus, and Grafana on an AWS EC2 instance. It tracks the number of files in the bucket, exposes metrics via a Python script, scrapes them with Prometheus, and visualizes them in Grafana.
 
 ## Features
